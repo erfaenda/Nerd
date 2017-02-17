@@ -3,14 +3,14 @@
  */
 import java.util.Scanner;
 
-public class ManyClass12 {
+public class Kira12 {
     public static void main(String[] args) {
         Scanner enter = new Scanner(System.in);
-        DopClass12 Kira = new DopClass12();
+        L12 LDetective = new L12();
         System.out.println("Скажи имя:");
 
         String name = enter.nextLine();
-        Kira.KiraSay(name);
+        LDetective.LSay(name);
 
     }
 }
