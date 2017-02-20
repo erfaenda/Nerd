@@ -30,7 +30,7 @@ public class Happyness15 {
         }
         System.out.println("В ваши " + Age + " лет вы круто перец");
         System.out.println("Уровень счастья равен " + Happy);
-        System.out.println("Уровень счастья равен " + Luck);
+        System.out.println("Уровень удачи равен " + Luck);
         System.out.println("Уровень счастья равен " + Rich);
         System.out.println("Уровень счастья равен " + Inta);
         System.out.println("Уровень счастья равен " + Health);
