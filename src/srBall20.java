@@ -28,6 +28,7 @@ public class srBall20 {
             else {
                 System.out.println("Введи корректную оценку");
                 ocenka = enter.nextInt();
+                summa += ocenka;
             }
         }
         System.out.println("Средний балл класса равен: " + summa/kolvo);
