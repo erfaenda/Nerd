@@ -7,7 +7,8 @@ public class voennoeVremya35 {
         System.out.println(time.toMilitary());
 
         time.setTime(15,55,68);
-
         System.out.println(time.toMilitary());
+
+        System.out.println(time.toNormal());
     }
 }
