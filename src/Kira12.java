@@ -1,6 +1,7 @@
 /**
  * Created by alex on 17.02.17.
  */
+
 import java.util.Scanner;
 
 public class Kira12 {
@@ -11,6 +12,7 @@ public class Kira12 {
 
         String name = enter.nextLine();
         LDetective.LSay(name);
+
 
     }
 }

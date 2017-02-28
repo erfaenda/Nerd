@@ -1,7 +1,7 @@
 /**
  * Created by alex on 24.02.2017.
  */
-public class voennoe35 {
+public class  voennoe35 {
     private int hour;
     private int minute;
     private  int second;
