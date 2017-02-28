@@ -18,5 +18,6 @@ public class GetSet {
         System.out.println(redCashDoor.getMaterial());
         System.out.println(redCashDoor.getCost());
 
+
     }
 }
