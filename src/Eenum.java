@@ -4,7 +4,10 @@
 public enum Eenum {
     Amy("Китайянка", "не секси"),
     Fry("туп", "ленив"),
-    Rick("алк", "гений");
+    Rick("алк", "гений"),
+    Alex("Easy", "cool"),
+    Den("тупой", "ленивый хуй"),
+    Manya("безотвецтвенная", "зашоренная");
 
     private final String DESC1;
     private final String DESC2;
