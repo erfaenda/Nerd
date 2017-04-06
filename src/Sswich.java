@@ -3,7 +3,7 @@
  */
 public class Sswich {
     public static void main(String[] args) {
-        int Beer = 15;
+        int Beer = 88;
         switch (Beer){
             case 1:
                 System.out.println("Легкая прогулка, я должен бухнуть больше");

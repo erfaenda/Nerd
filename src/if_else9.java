@@ -18,8 +18,11 @@ public class if_else9 {
         if (Misha > Alesha) {
             System.out.println("Мише " + Misha + " лет, он старше Алеши");
         }
+        else if (Misha == Alesha){
+            System.out.println("Алеше и Мише по " + Alesha + " лет");
+        }
         else {
-            System.out.println("Алеша старше Миши, ему " + Alesha + " лет");
+            System.out.println("Алеша старше Миши ");
         }
     }
 }
